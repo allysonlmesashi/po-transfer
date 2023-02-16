@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "sender": "Remetente",
+      "recipient": "Destinatário",
+      "money": 100,
+      "description": "Descriçãoteste",
+      "date": "2023-02-16T11:48:07.043Z",
+      "id": 1
+    }
+  ]
+}
